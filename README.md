@@ -1,4 +1,3 @@
-- 👋 Hi, i'm Alex.
-- 👀 I’m interested in the possibilites.
-- 🌱 I’m currently learning python, HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on anything possible.
+- 👋 Hi, i'm Alex
+- 🌱 I’m currently learning python, HTML, CSS, Javascript
+- I’m looking to collaborate on anything possible.
