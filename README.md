@@ -1,3 +1,3 @@
-- 👋 Hi, i'm Alex
-- 🌱 I’m currently learning python, HTML, CSS, Javascript
+- Hi, i'm Alex
+- Currently learning python, kotlin, javascript, HTML, CSS
 - I’m looking to collaborate on anything possible.
