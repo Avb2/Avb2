@@ -1,3 +1,3 @@
 - Hi, i'm Alex
-- Currently learning python, kotlin, javascript, HTML, CSS
+- Currently learning python, dart/flutter, javascript, HTML, CSS
 - I’m looking to collaborate on anything possible.
