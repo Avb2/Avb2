@@ -1,3 +1,1 @@
-- Hi, i'm Alex
-- Currently learning python, dart/flutter, javascript, HTML, CSS
-- I’m looking to collaborate on anything possible.
+![Dynamic Badge](https://img.shields.io/badge/Relaxing-LockedIN-brightgreen)
